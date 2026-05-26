@@ -1,4 +1,16 @@
-var num1 = prompt("Enter a value for num1", 9);
-var num2 = prompt("Enter a value for num2", 9);
+//var num1 = prompt("Enter a value for num1", 9);
+//var num2 = prompt("Enter a value for num2", 9);
 
 // Write your code below
+let num1 = 9;
+let num2 = 9;
+
+if (num2 < num1) {
+    console.log(true);
+}  else {
+   console.log(false); 
+}
+
+        
+    
+    
